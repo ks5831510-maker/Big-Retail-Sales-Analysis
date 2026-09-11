@@ -2,6 +2,9 @@
 
 An end-to-end retail data analytics project analyzing product sales, profit margins, and purchasing trends using Google Sheets and Excel.
 
+Click here to view live google sheet project 
+https://docs.google.com/spreadsheets/d/1Lmi6Mv6NmkUpeb1fp1-KiVI_5NdhVrRE7MSppD5zSyo/edit?usp=drivesdk
+
 ## 📊 Dashboard Preview
 ![Dashboard Preview](dashboard.big-retail.png)
 ![Dashboard 1](dashboard.big-retail.png)
