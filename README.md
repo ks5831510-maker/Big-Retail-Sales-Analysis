@@ -3,7 +3,11 @@
 An end-to-end retail data analytics project analyzing product sales, profit margins, and purchasing trends using Google Sheets and Excel.
 
 ## 📊 Dashboard Preview
-*(Aapne jo dashboard screenshot upload kiya ho uska exact naam yahan likhein, jaise: `![Dashboard](screenshot-name.png)`)*
+![Dashboard Preview](dashboard.big-retail.png)
+![Dashboard 1](dashboard.big-retail.png)
+![Dashboard 2](dashboard.big-retail2.png)
+![Dashboard 3](dashboard.big-retail3.png)
+![Dashboard 4](dashboard.big-retail4.png)
 
 ## 📌 Key Business Insights
 - Evaluated sales and purchase amounts across multiple product categories and sub-categories.
